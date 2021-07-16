@@ -44,3 +44,14 @@ a{
   color: #999999;
   transition-duration: 0.5s;
 }
+#ptitle{
+  font-size: 30px;
+  margin-left: px;
+  color: #cccccc;
+  font-family: 'M PLUS 1p', sans-serif;
+  transform: rotate(-45deg);
+  transform-origin: 0 0;
+}
+#ptitle2{
+  transform: translateY(80px);
+}
