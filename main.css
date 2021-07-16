@@ -21,6 +21,7 @@ a{
 #top_icon{
   display: inline-block;
   vertical-align: middle;
+  margin-left: 15px;
 }
 #top_a{
   background-color: #000000;
