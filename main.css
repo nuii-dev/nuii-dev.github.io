@@ -51,6 +51,7 @@ a{
   font-family: 'M PLUS 1p', sans-serif;
   transform: rotate(-45deg);
   transform-origin: 0 0;
+  padding-right: 0px;
 }
 #ptitle2{
   transform: translateY(80px);
