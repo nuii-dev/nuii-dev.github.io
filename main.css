@@ -1,8 +1,3 @@
-#temp{
-  font-size: 50px;
-  color: #999999;
-}
-
 li{
   list-style: none;
 }
@@ -17,7 +12,7 @@ a{
 #top a{
      color: #FFFFFF;
      font-family: 'M PLUS 1p', sans-serif;
-     font-size: 15px;
+     font-size: 20px;
 }
 #top a:hover{
   color: #999999;
@@ -42,7 +37,7 @@ a{
 #links_i a{
      color: #FFFFFF;
      font-family: 'M PLUS 1p', sans-serif;
-     font-size: 10px;
+     font-size: 15px;
 }
 #links a:hover{
   color: #999999;
