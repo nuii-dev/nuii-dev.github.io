@@ -1,0 +1,25 @@
+li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+#top{
+   display: inline-block;
+   vertical-align: middle;
+
+   margin-left: 20px;
+}
+#top a{
+     color: #FFFFFF;
+     font-family: 'M PLUS 1p', sans-serif;
+     font-size: 15px;
+}
+#top_icon{
+  display: inline-block;
+  vertical-align: middle;
+}
+#top_a{
+  background-color: #000000;
+  height: 50px;
+}
