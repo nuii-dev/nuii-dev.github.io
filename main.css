@@ -31,3 +31,20 @@ a{
   background-color: #000000;
   height: 50px;
 }
+#links{
+  background-color: #444444;
+}
+#links_i{
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 20px;
+}
+#links_i a{
+     color: #FFFFFF;
+     font-family: 'M PLUS 1p', sans-serif;
+     font-size: 10px;
+}
+#links a:hover{
+  color: #999999;
+  transition-duration: 0.5s;
+}
