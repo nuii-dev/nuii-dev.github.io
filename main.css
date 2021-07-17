@@ -52,8 +52,13 @@ a{
   transform: rotate(-45deg);
   transform-origin: 0 0;
   width: 0px;
+  animation: in 1.5s;
 }
 #ptitle2{
   transform: translateY(80px);
   width: 0px;
+}
+@keyframes in {
+  0%{opacity:0.0; }
+  100%{opacity:1.0;}
 }
